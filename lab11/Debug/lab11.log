@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Anonymous\source\repos\lab11\lab11\main.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Anonymous\source\repos\lab11\lab11\main.cpp(18,34): warning C4305: инициализация: усечение из "double" в "float"
+  lab11.vcxproj -> C:\Users\Anonymous\source\repos\lab11\Debug\lab11.exe
